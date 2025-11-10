@@ -1,0 +1,51 @@
+body {
+  text-align: center;
+  background-color: black;
+  font-family: Arial;
+}
+
+h1 {
+  color: wheat;
+  margin-top: 4%;
+}
+
+h2 {
+  color: wheat;
+}
+
+.btn {
+  height: 200px;
+  width: 200px;
+  border-radius: 20px;
+  border: 10px solid white;
+  margin: 1rem;
+}
+
+.btn-container {
+  display: flex;
+  justify-content: center;
+}
+
+.red {
+  background-color: #d95980;
+}
+
+.yellow {
+  background-color: #f99b45;
+}
+
+.green {
+  background-color: #63aac0;
+}
+
+.purple {
+  background-color: #819ff9;
+}
+
+.flash {
+  background-color: white;
+}
+
+.userflash {
+  background-color: greenyellow;
+}
